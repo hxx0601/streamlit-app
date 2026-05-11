@@ -1,0 +1,5 @@
+streamlit
+numpy
+joblib
+lightgbm
+scikit-learn==1.3.2
